@@ -4,7 +4,7 @@ A throwaway repo used to smoke-test [openai/symphony](https://github.com/openai/
 
 ## Purpose
 
-This repository exsts so we can verify that an autonomous Codex agent, orchestrated by
+This repository exists so we can verify that an autonomous Codex agent, orchestrated by
 Symphony, can pick up a Linear issue, clone this repo, make a fix, open a pull request,
 and respond to review feedback end-to-end.
 
